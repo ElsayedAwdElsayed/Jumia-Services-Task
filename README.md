@@ -7,7 +7,7 @@
 
 **Run Application** 
 
-- extract the zip folder  
+- clone the above repository
 - open project folder 
 - open bash terminal from this location 
 - run the this command   
